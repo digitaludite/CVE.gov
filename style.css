@@ -638,3 +638,24 @@ footer .subscribe:hover input {
 
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* CVE Grant winner logos */
+
+.cve-grant-winner-logos ul {
+    list-style: none;
+}
+
+.cve-grant-winner-logos ul li {
+    float: left;
+    display: inline-block;
+    width: 19.6333%;
+    text-align: center;
+    margin: 10px 2px;
+}
+
+.cve-grant-winner-logos ul li img {
+    max-width: 60% !important;
+    height: 80px !important;
+    margin: 20px 10px auto;
+}
